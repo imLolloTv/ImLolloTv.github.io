@@ -8,8 +8,7 @@ The project displays dynamic information retrieved from **Discord**, making the 
 
 The website is publicly available at the following links:
 
-👉 https://nloreee.it/
-👉 https://imlollotv.github.io
+👉 https://imlollotv.pages.dev
 
 ## 📌 Description
 
