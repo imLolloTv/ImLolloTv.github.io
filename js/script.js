@@ -220,7 +220,7 @@ function userActivity(userActivities, spotifyData) {
 }
 
 window.onload = async function() {
-    if (window.location.hostname !== "nloreee.it" && window.location.hostname !== "localhost") {
+    if (window.location.hostname !== "nloreee.it" && window.location.hostname !== "localhost" && window.location.hostname !== "imlollotv.pages.dev") {
         window.location.href = "https://nloreee.it";
     }
 
